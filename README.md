@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Microsoft Azure Static Web Apps Link** - 
+**Microsoft Azure Static Web Apps Link** - https://white-stone-0ab2b7700.2.azurestaticapps.net
 
 **Project Link** -
 
@@ -26,10 +26,10 @@ This is a web based application developed for health related based website in in
 ## Screenshots
 
 ### Static Web Apps -
-
-
+![Anesthesia - Microsoft Azure - Google Chrome 12_7_2022 3_51_46 PM](https://user-images.githubusercontent.com/119958517/206153926-bf369f37-0ad0-473c-b73a-640927ed0297.png)
 
 ### Azure Health Bot
+![helpbot - Microsoft Azure - Google Chrome 12_7_2022 3_44_47 PM](https://user-images.githubusercontent.com/119958517/206153992-470fe5dd-2356-46ff-b3a9-f137a7b0ea44.png)
 
 
 ### Home
