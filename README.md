@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Microsoft Azure Static Web Apps Link** - https://white-stone-0ab2b7700.2.azurestaticapps.net
 
-**Project Link** -
+**Project Link** - https://yasmin-0.github.io/FUTURE-READY-TALENT-PROJECT/
 
 **project demo video link** - 
 
